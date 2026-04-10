@@ -31,7 +31,7 @@
 		},
 		{
 			"Name": "AssetsCleaner",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3caab7c6e81f449296989122c043ae21"
 		},
 		{
@@ -45,6 +45,43 @@
 		{
 			"Name": "GameplayAbilities",
 			"Enabled": true
+		},
+		{
+			"Name": "CleanProject",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/13d45e838b954d67b9d5d01fa82635d9"
+		},
+		{
+			"Name": "FancyFolders",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/4fe57f0e-65dc-44be-8060-6960b72fffa0"
+		},
+		{
+			"Name": "NineSlicer",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/97c1c5df6ab74f949ce4a01cacefc83f"
+		},
+		{
+			"Name": "AssetZooMaker",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "ContentPackGenerator",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/bbc48f750f1a410e9419295c1485260d"
+		},
+		{
+			"Name": "OutlinerShortcuts",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f3c4bf65839d429cb8096e97787e04ed"
+		},
+		{
+			"Name": "NexxNote",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/a445ccab-a13f-458d-989a-63c7466ef7d8"
 		}
 	]
 }
